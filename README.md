@@ -23,9 +23,9 @@
 
 **나이** : 25
 
-**학교** : [안동대학교][identifier]
+**학교** : [안동대학교][안동대]
 
-[identifier]:http://www.anu.ac.kr
+[안동대]:http://www.anu.ac.kr
 
 **학과** : [컴퓨터공학과][identifier]
 
