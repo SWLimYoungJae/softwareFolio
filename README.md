@@ -1,7 +1,7 @@
 # softwareFolio
 
 # 목차
-## 프로필 https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%ED%94%84%EB%A1%9C%ED%95%84-1
+## 프로필 [https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%ED%94%84%EB%A1%9C%ED%95%84-1]
 ## 스펙
 
 
