@@ -1,5 +1,8 @@
 # softwareFolio
 
+![cat-6309964_960_720](https://user-images.githubusercontent.com/86451061/123884283-df969e80-d985-11eb-914a-59b3b055b3f8.png)
+
+
 # 목차
 
 * [나에 대한 간략한 소개](https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%EB%82%98%EC%9D%98%EC%86%8C%EA%B0%9C)
