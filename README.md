@@ -55,12 +55,15 @@
 ## 내가 가장 자주가는 사이트
 
 [안동대학교 학습관리시스템][identifier]
-[identifier](https://lms.andong.ac.kr/)
+
+[identifier]:http://www.anu.ac.kr
 
 [네이버][identifier]
+
 [identifier]:https://naver.com/
 
 [유투브][identifier]
+
 [identifier]:https://youtube.com/
 
 
