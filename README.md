@@ -27,7 +27,7 @@
 
 [안동대]:http://www.anu.ac.kr
 
-**학과** : [컴퓨터공학과][identifier]
+**학과** : [컴퓨터공학과][컴공]
 
 [identifier]:https://comeng.andong.ac.kr/
 
