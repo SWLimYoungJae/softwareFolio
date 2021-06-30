@@ -32,8 +32,6 @@
 [identifier]:https://comeng.andong.ac.kr/
 
 
-### 스펙
-
 #### 자격증
 
 | | 자격증 | 취득날짜 |
