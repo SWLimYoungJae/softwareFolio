@@ -1,10 +1,6 @@
 # softwareFolio
 
 # 목차
-* [프로필](https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%ED%94%84%EB%A1%9C%ED%95%84-1)
-* [스펙](https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%EC%8A%A4%ED%8E%99-1)
-
-
 
 * [나에 대한 간략한 소개](https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%EB%82%98%EC%9D%98%EC%86%8C%EA%B0%9C)
 * [교육](https://github.com/SWLimYoungJae/softwareFolio/blob/main/README.md#%EA%B5%90%EC%9C%A1-1)
