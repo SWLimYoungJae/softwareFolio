@@ -29,7 +29,7 @@
 
 **학과** : [컴퓨터공학과][컴공]
 
-[]:https://comeng.andong.ac.kr/
+[컴공]:https://comeng.andong.ac.kr/
 
 
 #### 자격증
